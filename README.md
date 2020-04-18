@@ -5,3 +5,4 @@ The code will be into three segments
 HTML
 CSS and
 JavaScript.
+The Javascript is where the functions rescides for the API control.
